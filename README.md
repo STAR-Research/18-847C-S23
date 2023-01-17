@@ -7,8 +7,8 @@
 **Email Address:**  akshitha@cmu.edu  
 **Office Hours:**  Mondays, 1 - 2 pm ET 
 
-**Teaching Assistant:**   Kunal Gulati <br/>
-**Email Address:**  kgulati@andrew.cmu.edu <br/>	
+**Teaching Assistant:**   Kunal Gulati and Bin Peng <br/>
+**Email Address:**  kgulati@andrew.cmu.edu, binp@andrew.cmu.edu <br/>	
 **Office Hours:**	  Email to schedule a Zoom appointment
 
 **Course Support:**  Academic Services Center <br/>
