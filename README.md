@@ -99,7 +99,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s23.hotcrp.
 
 | Date      | Topic | Readings | Notes | Summary | Advocate | Critic |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Jan 18 (W) | Introduction to Data center Computing | Introduction |- Find project partners <br/> - [Form](https://forms.gle/ivLRzm6pXzLNge5U9) due|
+| Jan 18 (W) [Lecture 1](https://drive.google.com/file/d/1xRgDKoIFV7Nt9gJ3qV02OaiG7O8ZAFsE/view?usp=sharing) | Introduction to Data center Computing | Introduction |- Find project partners <br/> - [Form](https://forms.gle/ivLRzm6pXzLNge5U9) due|
 | Jan 23 (M) <br/> | Introduction to Data center Computing | Introduction | | Akshitha Sriraman |
 | Jan 25 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | - Submit project proposal document describing project topic (<=1 page) </br> -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | Cynthia Fan | Claire Lin | Zihao Yang |
 | Jan 30 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | Nicholai Tukanov | Melissa Pan | Hao Yuan (Frankie) |
