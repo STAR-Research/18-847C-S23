@@ -125,7 +125,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s23.hotcrp.
 | Apr 10 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Nishant Ravi Shankar  | Amos Chen  |  Nicholai Tukanov  |
 | Apr 12 (W) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  | Melissa Pan  | Mujing Wang | Cynthia Fan  |
 | Apr 17 (M) | [SOL: Safe On-Node Learning in Cloud Platforms](https://www.microsoft.com/en-us/research/uploads/prod/2022/01/On-Node-Learning-ASPLOS22.pdf) | Monitoring/Telemetry | [Supplemental reading](https://www.usenix.org/node/186168) | Xiangning Lin |  Ziwei Wang  | Haoying Zhang |
-| Apr 19 (W) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | | Yuxi Liu |  Eric Tang  |  Nicholai Tukanov  |
+| Apr 19 (W) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | - Guest: [Rama Govindaraju](https://research.google/people/104926/) (Google Research) | Yuxi Liu |  Eric Tang  |  Nicholai Tukanov  |
 | Apr 24 (M) | Final project presentations |  | |  |
 | Apr 28 (F) | Final report due |  | |  |
 
